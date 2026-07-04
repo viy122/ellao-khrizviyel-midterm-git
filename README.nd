@@ -3,3 +3,14 @@ This is a student profile for a student of BSU-Arasof learning Integrtive Progra
 Khriz Viyel P. Ellao
 BSIT BA 3302
 
+Midterm Examination Reflection
+1. git is a version contro syste used to trach changes in code, can also collaborate with others and manage projects, these are the commands
+
+2. git is a git tool to manage and trach files or codes locally while github is an online platfor that host git repo's 
+
+3. branching lets us work  and collab with people to fix and add codes at the same time, also used to store changes wiyhout changing the main project
+
+4. git push -u origin main and git push -u origin feature-profile-update, it depends on what branch are you on
+
+5. i learned how to use git and track changes, creatce commits, work with branches and upload a local repo to github.
+I also learned how important version control is for organizing projects and collaborationg with other people
